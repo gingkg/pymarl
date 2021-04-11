@@ -1,5 +1,5 @@
 ```diff
-本代码修改至https://gitee.com/gingkg/QPLEX/tree/master/pymarl-master
+本代码修改至https://github.com/wjh720/QPLEX/tree/master/pymarl-master/src
 ```
 
 使用本代码需安装 StarCraft II 和 SMAC， 安装地址和方式见：
