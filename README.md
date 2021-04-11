@@ -6,6 +6,7 @@
 https://github.com/gingkg/smac
 
 本代码在win10、pytorch 1.x的环境下通过了所有的算法和游戏。
+
 修复了原代码不能在win环境下运行的问题，在原代码的基础上添加了默认算法和游戏。
 
 # QPLEX: Duplex Dueling Multi-Agent Q-Learning
